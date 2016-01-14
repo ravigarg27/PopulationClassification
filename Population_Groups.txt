@@ -1,0 +1,156 @@
+patient
+Patient
+patients
+Patients
+inpatient
+Inpatient
+inpatients
+Inpatients
+outpatient
+Outpatient
+outpatients
+Outpatients
+child
+Child
+children
+Children
+individuals
+Individuals
+adults
+Adults
+people
+People
+women
+Women
+woman
+Woman
+men
+person
+AIDS clinical trial group
+Abortion Applicants
+Abortion Seekers, Refused
+Abortion Seekers, Repeated
+Battered Woman
+Abuser, Drug
+Addict
+Adolescent, Hospitalized
+Adolescent, Institutionalized
+Adolescent unwed mother
+Adult victim of sexual abuse
+Adult Survivors of Child Abuse
+AIDS Long-Term Survivors
+Alcoholic family member
+Alcoholic parent
+Alcoholics
+Amputee
+Amyotrophic lateral sclerosis gene carrier
+Artificial kidney device user
+Asymptomatic gene carrier
+Battered husband
+Battered man, unspecified
+Battered wife
+Battered woman, unspecified
+Bld^donor
+Impaired Person, Visually
+Cancer gene carrier
+Carrier of human T-lymphotropic virus type-1 infect
+Child: audiology
+Child: audiometry
+Child: clinical psychologistC
+Disabled Children
+Child, Hospitalized
+Children, Institutionalized
+Child: pediatric ophthalmology clinic
+Child: speech therapy
+Clinical trial group
+Compacted twins
+Crazy relative
+Hearing Impaired Person
+Deinstitutionalized Persons
+Demented relative
+Demented spouse
+Dependance on enabling machine or device
+Diabetic spouse
+Outliers, DRG
+Diamniotic-monochorionic twins
+Disabled Person
+Mentally Disabled Person
+Handicapped, Physically
+Duchenne muscular dystrophy gene carrier
+Elderly primigravida, antepartum
+Elderly primigravida, unspecified as to episode of care
+Fast learner
+Flaccid newborn
+Fragile X carrier
+Handicapped:  or [spouse] or [child]
+Hepatitis carrier
+HIV carrier
+HIV Long-Term Survivors
+HIV Non-Progressors
+Homebound Persons
+HTLV-1 carrier
+Hypophysial Dwarf
+Idiot
+IVDU
+Mentally Ill Persons
+Terminally Ill
+Impacted twins
+Low birth weight infant
+Light-for-dates without mention of fetal malnutrition
+Infectious disorders carrier
+Institutionalized Persons
+Long Term Survivors
+Birth Weight, Low
+Monoamniotic twins
+MRSA - Multiple resistant staphylococcus aureus infection carrier
+Neglected elder
+Elder Abuse
+Oth multip liveborn infants, unspec as to place of birth
+Other advanced maternal age, antepartum condition or complication
+Other advanced maternal age, delivered, with or without mention of antepartum condition
+Other gastrointestinal tract pathogen carrier
+Other preterm infants, 2,500+ grams
+Other specified infectious disease carrier
+Other venereal disease carrier
+Pediatric AIDS Clinical Trial Group
+Patient in local study
+^Patient &#x7C; computerized tomography
+^Patient &#x7C; magnetic resonance imaging
+^Patient &#x7C; radnuc.PET
+^Patient &#x7C; radnuc.SPECT
+^Patient &#x7C; radnuc
+Has patient
+Peripartum Women
+Persons with a condition influencing their health status
+Persons encountering health services for examination and investigation
+Persons encountering health services for specific procedures and health care
+Physically Challenged
+Post-term infant - 42 weeks plus
+Postpartum Women
+Premature birth of multiple newborns
+Premature birth of newborn female
+Premature birth of newborn male
+Premature birth of newborn quintuplets
+Premature birth of newborn sextuplets
+Premature birth of newborn triplets
+Premature birth of newborn twins
+Psychiatric in-patient
+Psychiatric patient - not previously admitted
+Psychiatric patient - previously admitted, this health care provider
+Psychiatric patient - previously admitted, other health care provider
+Psychotic family member
+RBC^donor
+Recipient, Transplant
+Vasectomy Seekers, Refused
+Abuse, Sexual
+Schizophrenic relative
+Schizophrenic spouse
+Vasectomy Seekers
+Ser^donor
+Ser/Plas^donor
+Sick child
+Sick spouse
+Survivors
+Term birth of multiple newborns
+Sexual abuse
+Wheelchair user

@@ -1,0 +1,891 @@
+Input size()=4489
+#############Performing 0 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8910891089108911
+The testing accuracy is 0.7706013363028953
+The testing precision is 0.6113989637305699
+The testing recall is 0.8082191780821918
+The testing f1score is 0.6961651917404129
+Outclassification size 449
+Count Correct 346
+Count Incorrect 103
+p1l1 118
+p1l0 75
+p0l1 28
+p0l0 228
+#############Performing 1 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8938118811881188
+The testing accuracy is 0.7973273942093542
+The testing precision is 0.6363636363636364
+The testing recall is 0.8057553956834532
+The testing f1score is 0.7111111111111111
+Outclassification size 449
+Count Correct 358
+Count Incorrect 91
+p1l1 112
+p1l0 64
+p0l1 27
+p0l0 246
+#############Performing 2 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8910891089108911
+The testing accuracy is 0.7817371937639198
+The testing precision is 0.5873015873015873
+The testing recall is 0.8473282442748091
+The testing f1score is 0.69375
+Outclassification size 449
+Count Correct 351
+Count Incorrect 98
+p1l1 111
+p1l0 78
+p0l1 20
+p0l0 240
+#############Performing 3 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8866336633663366
+The testing accuracy is 0.7683741648106904
+The testing precision is 0.5862068965517241
+The testing recall is 0.7611940298507462
+The testing f1score is 0.6623376623376623
+Outclassification size 449
+Count Correct 345
+Count Incorrect 104
+p1l1 102
+p1l0 72
+p0l1 32
+p0l0 243
+#############Performing 4 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8915841584158416
+The testing accuracy is 0.8062360801781737
+The testing precision is 0.6646341463414634
+The testing recall is 0.7730496453900709
+The testing f1score is 0.7147540983606557
+Outclassification size 449
+Count Correct 362
+Count Incorrect 87
+p1l1 109
+p1l0 55
+p0l1 32
+p0l0 253
+#############Performing 5 iteration###########
+The train set size is 4041
+The test set size is 448
+The training accuracy is 0.8913635238802277
+The testing accuracy is 0.8169642857142857
+The testing precision is 0.7102272727272727
+The testing recall is 0.8012820512820513
+The testing f1score is 0.7530120481927711
+Outclassification size 448
+Count Correct 366
+Count Incorrect 82
+p1l1 125
+p1l0 51
+p0l1 31
+p0l0 241
+#############Performing 6 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8918316831683168
+The testing accuracy is 0.8084632516703786
+The testing precision is 0.6910994764397905
+The testing recall is 0.8301886792452831
+The testing f1score is 0.7542857142857143
+Outclassification size 449
+Count Correct 363
+Count Incorrect 86
+p1l1 132
+p1l0 59
+p0l1 27
+p0l0 231
+#############Performing 7 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8945544554455446
+The testing accuracy is 0.8017817371937639
+The testing precision is 0.6631578947368421
+The testing recall is 0.8344370860927153
+The testing f1score is 0.7390029325513197
+Outclassification size 449
+Count Correct 360
+Count Incorrect 89
+p1l1 126
+p1l0 64
+p0l1 25
+p0l0 234
+#############Performing 8 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8930693069306931
+The testing accuracy is 0.7750556792873051
+The testing precision is 0.6395939086294417
+The testing recall is 0.8076923076923077
+The testing f1score is 0.7138810198300283
+Outclassification size 449
+Count Correct 348
+Count Incorrect 101
+p1l1 126
+p1l0 71
+p0l1 30
+p0l0 222
+#############Performing 9 iteration###########
+The train set size is 4040
+The test set size is 449
+The training accuracy is 0.8915841584158416
+The testing accuracy is 0.7817371937639198
+The testing precision is 0.5882352941176471
+The testing recall is 0.8396946564885496
+The testing f1score is 0.6918238993710693
+Outclassification size 449
+Count Correct 351
+Count Incorrect 98
+p1l1 110
+p1l0 77
+p0l1 21
+p0l0 241
+Average 10 folds accuracy for model NaiveBayesTrainer is : 0.7908278316894688
+Average 10 folds precision for model NaiveBayesTrainer is : 0.6378219076939974
+Average 10 folds recall for model NaiveBayesTrainer is : 0.8108841274082179
+Average 10 folds f1-score for model NaiveBayesTrainer is : 0.7130123677780745
+#############Performing 0 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=2800.3146094622457 prior=0.0) loglikelihood = -2800.3146094622457
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 2800.3146094622457 + |w|=0.0) = 2800.3146094622457
+Value (labelProb=1969.2862904104522 prior=0.0) loglikelihood = -1969.2862904104522
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 1969.2862904104522 + |w|=9.99831746002978) = 1979.284607870482
+Value (labelProb=1516.7894358613726 prior=0.0) loglikelihood = -1516.7894358613726
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 1516.7894358613726 + |w|=19.669897996535507) = 1536.4593338579082
+Value (labelProb=1304.1143687186834 prior=0.0) loglikelihood = -1304.1143687186834
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 1304.1143687186834 + |w|=24.58276545409735) = 1328.6971341727808
+Value (labelProb=1177.220305343522 prior=0.0) loglikelihood = -1177.220305343522
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 1177.220305343522 + |w|=30.45269134317821) = 1207.6729966867003
+Value (labelProb=1072.4427238528403 prior=0.0) loglikelihood = -1072.4427238528403
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 1072.4427238528403 + |w|=39.919374255474324) = 1112.3620981083147
+Value (labelProb=949.8867117711985 prior=0.0) loglikelihood = -949.8867117711985
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 949.8867117711985 + |w|=61.564932327735) = 1011.4516440989336
+Value (labelProb=906.8032991165502 prior=0.0) loglikelihood = -906.8032991165502
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 906.8032991165502 + |w|=101.50919556744797) = 1008.3124946839981
+Value (labelProb=800.5272909476864 prior=0.0) loglikelihood = -800.5272909476864
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 800.5272909476864 + |w|=108.20399417738956) = 908.7312851250759
+Value (labelProb=765.00298821896 prior=0.0) loglikelihood = -765.00298821896
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 765.00298821896 + |w|=122.190019694729) = 887.193007913689
+Value (labelProb=728.3600651602183 prior=0.0) loglikelihood = -728.3600651602183
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 728.3600651602183 + |w|=138.98675319944655) = 867.3468183596648
+Value (labelProb=703.3413453835176 prior=0.0) loglikelihood = -703.3413453835176
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 703.3413453835176 + |w|=149.08833945886855) = 852.4296848423861
+Value (labelProb=672.6771505204655 prior=0.0) loglikelihood = -672.6771505204655
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 672.6771505204655 + |w|=164.85021136283143) = 837.5273618832969
+Value (labelProb=648.7457608770379 prior=0.0) loglikelihood = -648.7457608770379
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 648.7457608770379 + |w|=174.15908205925678) = 822.9048429362947
+Value (labelProb=622.4505280602743 prior=0.0) loglikelihood = -622.4505280602743
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 622.4505280602743 + |w|=186.6011974802563) = 809.0517255405307
+Value (labelProb=605.7948233776998 prior=0.0) loglikelihood = -605.7948233776998
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 605.7948233776998 + |w|=194.9097314882723) = 800.7045548659721
+Value (labelProb=591.7901169258287 prior=0.0) loglikelihood = -591.7901169258287
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 591.7901169258287 + |w|=200.31942505729725) = 792.109541983126
+Value (labelProb=579.4738332050487 prior=0.0) loglikelihood = -579.4738332050487
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 579.4738332050487 + |w|=206.7746332040685) = 786.2484664091171
+Value (labelProb=570.9145078489875 prior=0.0) loglikelihood = -570.9145078489875
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 570.9145078489875 + |w|=212.44613819086013) = 783.3606460398476
+Value (labelProb=561.3866201584102 prior=0.0) loglikelihood = -561.3866201584102
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 561.3866201584102 + |w|=218.6780566625545) = 780.0646768209647
+Value (labelProb=553.0368207356875 prior=0.0) loglikelihood = -553.0368207356875
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 553.0368207356875 + |w|=224.49172569290317) = 777.5285464285906
+Value (labelProb=548.0048247805238 prior=0.0) loglikelihood = -548.0048247805238
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 548.0048247805238 + |w|=227.77444219961512) = 775.7792669801389
+Value (labelProb=544.7351222215431 prior=0.0) loglikelihood = -544.7351222215431
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 544.7351222215431 + |w|=229.79692462006474) = 774.5320468416078
+Value (labelProb=541.339683037272 prior=0.0) loglikelihood = -541.339683037272
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 541.339683037272 + |w|=232.1048644890839) = 773.4445475263559
+Value (labelProb=540.4216220028432 prior=0.0) loglikelihood = -540.4216220028432
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 540.4216220028432 + |w|=232.32906001874701) = 772.7506820215901
+Value (labelProb=539.1701060394167 prior=0.0) loglikelihood = -539.1701060394167
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 539.1701060394167 + |w|=232.8661859115548) = 772.0362919509715
+Value (labelProb=536.969506775741 prior=0.0) loglikelihood = -536.969506775741
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 536.969506775741 + |w|=234.34969649022216) = 771.3192032659632
+Value (labelProb=527.1258178902509 prior=0.0) loglikelihood = -527.1258178902509
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.1258178902509 + |w|=244.10923632201695) = 771.2350542122679
+Value (labelProb=528.6098168945183 prior=0.0) loglikelihood = -528.6098168945183
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.6098168945183 + |w|=241.78199618296364) = 770.391813077482
+Value (labelProb=528.7159981636795 prior=0.0) loglikelihood = -528.7159981636795
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.7159981636795 + |w|=241.23630143551793) = 769.9522995991974
+Value (labelProb=528.7024123134352 prior=0.0) loglikelihood = -528.7024123134352
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.7024123134352 + |w|=241.33752069673406) = 770.0399330101692
+Value (labelProb=528.6305147313197 prior=0.0) loglikelihood = -528.6305147313197
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.6305147313197 + |w|=241.28601804004555) = 769.9165327713653
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 769.9522995991974 newValue: 769.9165327713653
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.6305147313197 + |w|=241.28601804004555) = 769.9165327713653
+Value (labelProb=927.9362235219141 prior=0.0) loglikelihood = -927.9362235219141
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 927.9362235219141 + |w|=240.5625568627398) = 1168.4987803846539
+Value (labelProb=531.6717553738089 prior=0.0) loglikelihood = -531.6717553738089
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.6717553738089 + |w|=241.16679485430203) = 772.8385502281109
+Value (labelProb=528.6041549103936 prior=0.0) loglikelihood = -528.6041549103936
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.6041549103936 + |w|=241.27274511388913) = 769.8769000242828
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 769.9165327713653 newValue: 769.8769000242828
+
+
+The training accuracy is 0.9522277227722772
+The testing accuracy is 0.9020044543429844
+The testing precision is 0.8109756097560976
+The testing recall is 0.910958904109589
+The testing f1score is 0.8580645161290323
+Outclassification size 449
+Count Correct 405
+Count Incorrect 44
+p1l1 133
+p1l0 31
+p0l1 13
+p0l0 272
+#############Performing 1 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=590.5659880553628 prior=0.0) loglikelihood = -590.5659880553628
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 590.5659880553628 + |w|=241.27274511388913) = 831.838733169252
+Value (labelProb=631.060080443692 prior=0.0) loglikelihood = -631.060080443692
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 631.060080443692 + |w|=242.10539576096207) = 873.165476204654
+Value (labelProb=588.1114453140192 prior=0.0) loglikelihood = -588.1114453140192
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 588.1114453140192 + |w|=241.3052565175437) = 829.4167018315629
+Value (labelProb=580.7462476648277 prior=0.0) loglikelihood = -580.7462476648277
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 580.7462476648277 + |w|=241.721053514854) = 822.4673011796817
+Value (labelProb=567.0824001184502 prior=0.0) loglikelihood = -567.0824001184502
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 567.0824001184502 + |w|=243.77799124012066) = 810.8603913585708
+Value (labelProb=556.6389177663619 prior=0.0) loglikelihood = -556.6389177663619
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 556.6389177663619 + |w|=246.66006106474737) = 803.2989788311093
+Value (labelProb=549.1222550222795 prior=0.0) loglikelihood = -549.1222550222795
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 549.1222550222795 + |w|=249.000863378976) = 798.1231184012555
+Value (labelProb=539.4924078205607 prior=0.0) loglikelihood = -539.4924078205607
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 539.4924078205607 + |w|=253.5092534610104) = 793.0016612815712
+Value (labelProb=544.5420713723163 prior=0.0) loglikelihood = -544.5420713723163
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 544.5420713723163 + |w|=256.33911631217376) = 800.88118768449
+Value (labelProb=538.6942231005238 prior=0.0) loglikelihood = -538.6942231005238
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 538.6942231005238 + |w|=254.6615644542345) = 793.3557875547583
+Value (labelProb=538.2136832763582 prior=0.0) loglikelihood = -538.2136832763582
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 538.2136832763582 + |w|=254.0507354184188) = 792.2644186947771
+Value (labelProb=533.4579437185307 prior=0.0) loglikelihood = -533.4579437185307
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 533.4579437185307 + |w|=256.53025457784145) = 789.9881982963722
+Value (labelProb=530.2153585065173 prior=0.0) loglikelihood = -530.2153585065173
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 530.2153585065173 + |w|=257.92137368592506) = 788.1367321924424
+Value (labelProb=525.8090237044983 prior=0.0) loglikelihood = -525.8090237044983
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 525.8090237044983 + |w|=260.98142346792054) = 786.7904471724188
+Value (labelProb=525.5345039411228 prior=0.0) loglikelihood = -525.5345039411228
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 525.5345039411228 + |w|=260.1198469991494) = 785.6543509402723
+Value (labelProb=525.6618417040443 prior=0.0) loglikelihood = -525.6618417040443
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 525.6618417040443 + |w|=259.8185964037978) = 785.480438107842
+Value (labelProb=525.8561753297818 prior=0.0) loglikelihood = -525.8561753297818
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 525.8561753297818 + |w|=259.33411141948284) = 785.1902867492646
+Value (labelProb=526.6158637967685 prior=0.0) loglikelihood = -526.6158637967685
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 526.6158637967685 + |w|=257.8495969269829) = 784.4654607237514
+Value (labelProb=525.8239650612867 prior=0.0) loglikelihood = -525.8239650612867
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 525.8239650612867 + |w|=258.09784001498275) = 783.9218050762695
+Value (labelProb=524.7824707447465 prior=0.0) loglikelihood = -524.7824707447465
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.7824707447465 + |w|=258.6253922487013) = 783.4078629934479
+Value (labelProb=523.7158086635965 prior=0.0) loglikelihood = -523.7158086635965
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 523.7158086635965 + |w|=259.4729489388344) = 783.1887576024309
+Value (labelProb=523.0807397861694 prior=0.0) loglikelihood = -523.0807397861694
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 523.0807397861694 + |w|=259.7237515957276) = 782.8044913818969
+Value (labelProb=522.9654515801085 prior=0.0) loglikelihood = -522.9654515801085
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.9654515801085 + |w|=259.61751689051795) = 782.5829684706264
+Value (labelProb=522.961306477135 prior=0.0) loglikelihood = -522.961306477135
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.961306477135 + |w|=259.27824685278756) = 782.2395533299226
+Value (labelProb=522.6435388634623 prior=0.0) loglikelihood = -522.6435388634623
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.6435388634623 + |w|=259.37607170342335) = 782.0196105668856
+Value (labelProb=522.6203440821808 prior=0.0) loglikelihood = -522.6203440821808
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.6203440821808 + |w|=259.2642198055977) = 781.8845638877785
+Value (labelProb=522.4371168241589 prior=0.0) loglikelihood = -522.4371168241589
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.4371168241589 + |w|=259.34818428066455) = 781.7853011048235
+Value (labelProb=522.2325591584827 prior=0.0) loglikelihood = -522.2325591584827
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.2325591584827 + |w|=259.4947060681288) = 781.7272652266115
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 781.7853011048235 newValue: 781.7272652266115
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.2325591584827 + |w|=259.4947060681288) = 781.7272652266115
+Value (labelProb=852.182410374249 prior=0.0) loglikelihood = -852.182410374249
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 852.182410374249 + |w|=259.28659474706234) = 1111.4690051213113
+Value (labelProb=524.9176301336724 prior=0.0) loglikelihood = -524.9176301336724
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.9176301336724 + |w|=259.4366427138868) = 784.3542728475593
+Value (labelProb=522.2378647346704 prior=0.0) loglikelihood = -522.2378647346704
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.2378647346704 + |w|=259.48729060386444) = 781.7251553385349
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 781.7272652266115 newValue: 781.7251553385349
+
+
+The training accuracy is 0.9561881188118811
+The testing accuracy is 0.9265033407572383
+The testing precision is 0.8533333333333334
+The testing recall is 0.920863309352518
+The testing f1score is 0.8858131487889273
+Outclassification size 449
+Count Correct 416
+Count Incorrect 33
+p1l1 128
+p1l0 22
+p0l1 11
+p0l0 288
+#############Performing 2 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=571.1123451918969 prior=0.0) loglikelihood = -571.1123451918969
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 571.1123451918969 + |w|=259.48729060386444) = 830.5996357957613
+Value (labelProb=614.4649781862875 prior=0.0) loglikelihood = -614.4649781862875
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 614.4649781862875 + |w|=260.1211654933497) = 874.5861436796372
+Value (labelProb=568.9684941640432 prior=0.0) loglikelihood = -568.9684941640432
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 568.9684941640432 + |w|=259.475149123485) = 828.4436432875282
+Value (labelProb=564.2059637426644 prior=0.0) loglikelihood = -564.2059637426644
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 564.2059637426644 + |w|=259.18924159296245) = 823.3952053356268
+Value (labelProb=551.0936746811685 prior=0.0) loglikelihood = -551.0936746811685
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 551.0936746811685 + |w|=259.55043092293283) = 810.6441056041014
+Value (labelProb=547.8180562103454 prior=0.0) loglikelihood = -547.8180562103454
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 547.8180562103454 + |w|=259.7771742918629) = 807.5952305022083
+Value (labelProb=545.4793732574441 prior=0.0) loglikelihood = -545.4793732574441
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 545.4793732574441 + |w|=259.87676429192567) = 805.3561375493698
+Value (labelProb=540.9710747962091 prior=0.0) loglikelihood = -540.9710747962091
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 540.9710747962091 + |w|=260.1782558833481) = 801.1493306795571
+Value (labelProb=538.8926536891378 prior=0.0) loglikelihood = -538.8926536891378
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 538.8926536891378 + |w|=259.7805063222534) = 798.6731600113912
+Value (labelProb=536.6555737887293 prior=0.0) loglikelihood = -536.6555737887293
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 536.6555737887293 + |w|=258.28578657056795) = 794.9413603592973
+Value (labelProb=536.6282629212461 prior=0.0) loglikelihood = -536.6282629212461
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 536.6282629212461 + |w|=257.2949079006456) = 793.9231708218917
+Value (labelProb=535.1738205392928 prior=0.0) loglikelihood = -535.1738205392928
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 535.1738205392928 + |w|=257.55291091368156) = 792.7267314529744
+Value (labelProb=534.6926273554973 prior=0.0) loglikelihood = -534.6926273554973
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 534.6926273554973 + |w|=257.6196074397742) = 792.3122347952715
+Value (labelProb=532.7718119295992 prior=0.0) loglikelihood = -532.7718119295992
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 532.7718119295992 + |w|=258.3041235498527) = 791.0759354794518
+Value (labelProb=531.2044103560439 prior=0.0) loglikelihood = -531.2044103560439
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.2044103560439 + |w|=259.1244979246251) = 790.328908280669
+Value (labelProb=530.3047608827518 prior=0.0) loglikelihood = -530.3047608827518
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 530.3047608827518 + |w|=259.52192926573144) = 789.8266901484833
+Value (labelProb=529.7521895343549 prior=0.0) loglikelihood = -529.7521895343549
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 529.7521895343549 + |w|=259.6675181425985) = 789.4197076769534
+Value (labelProb=529.0247415982973 prior=0.0) loglikelihood = -529.0247415982973
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 529.0247415982973 + |w|=259.8135093237929) = 788.8382509220902
+Value (labelProb=529.1329861148587 prior=0.0) loglikelihood = -529.1329861148587
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 529.1329861148587 + |w|=259.2550305396192) = 788.388016654478
+Value (labelProb=528.9147223131251 prior=0.0) loglikelihood = -528.9147223131251
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.9147223131251 + |w|=259.22919132801655) = 788.1439136411417
+Value (labelProb=528.8955010739746 prior=0.0) loglikelihood = -528.8955010739746
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.8955010739746 + |w|=259.2026860510361) = 788.0981871250108
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 788.1439136411417 newValue: 788.0981871250108
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.8955010739746 + |w|=259.2026860510361) = 788.0981871250108
+Value (labelProb=647.9602114738501 prior=0.0) loglikelihood = -647.9602114738501
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 647.9602114738501 + |w|=258.8638361996639) = 906.8240476735141
+Value (labelProb=529.8943790853731 prior=0.0) loglikelihood = -529.8943790853731
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 529.8943790853731 + |w|=259.1027982497174) = 788.9971773350906
+Value (labelProb=528.8905637430754 prior=0.0) loglikelihood = -528.8905637430754
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.8905637430754 + |w|=259.18796028172005) = 788.0785240247955
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 788.0981871250108 newValue: 788.0785240247955
+
+
+The training accuracy is 0.9556930693069307
+The testing accuracy is 0.9131403118040089
+The testing precision is 0.8538461538461538
+The testing recall is 0.8473282442748091
+The testing f1score is 0.8505747126436781
+Outclassification size 449
+Count Correct 410
+Count Incorrect 39
+p1l1 111
+p1l0 19
+p0l1 20
+p0l0 299
+#############Performing 3 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=557.5014648473292 prior=0.0) loglikelihood = -557.5014648473292
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 557.5014648473292 + |w|=259.18796028172005) = 816.6894251290493
+Value (labelProb=659.2364613447963 prior=0.0) loglikelihood = -659.2364613447963
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 659.2364613447963 + |w|=261.99065361377404) = 921.2271149585704
+Value (labelProb=555.7421728742427 prior=0.0) loglikelihood = -555.7421728742427
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 555.7421728742427 + |w|=259.4002364649952) = 815.1424093392379
+Value (labelProb=553.9513417616234 prior=0.0) loglikelihood = -553.9513417616234
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 553.9513417616234 + |w|=259.45478923439674) = 813.4061309960202
+Value (labelProb=539.928212688878 prior=0.0) loglikelihood = -539.928212688878
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 539.928212688878 + |w|=261.51258528024334) = 801.4407979691214
+Value (labelProb=537.1429623617748 prior=0.0) loglikelihood = -537.1429623617748
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 537.1429623617748 + |w|=261.73437960785634) = 798.8773419696312
+Value (labelProb=533.9339625381687 prior=0.0) loglikelihood = -533.9339625381687
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 533.9339625381687 + |w|=262.0811088531704) = 796.015071391339
+Value (labelProb=530.7913681349163 prior=0.0) loglikelihood = -530.7913681349163
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 530.7913681349163 + |w|=262.15945449880763) = 792.9508226337239
+Value (labelProb=527.9075207292013 prior=0.0) loglikelihood = -527.9075207292013
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.9075207292013 + |w|=263.11415514935135) = 791.0216758785527
+Value (labelProb=527.0120219066515 prior=0.0) loglikelihood = -527.0120219066515
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.0120219066515 + |w|=262.8741187344582) = 789.8861406411097
+Value (labelProb=525.1063804438767 prior=0.0) loglikelihood = -525.1063804438767
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 525.1063804438767 + |w|=263.0325655096854) = 788.1389459535621
+Value (labelProb=523.0563224644008 prior=0.0) loglikelihood = -523.0563224644008
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 523.0563224644008 + |w|=263.46619179311205) = 786.5225142575127
+Value (labelProb=521.9296962887421 prior=0.0) loglikelihood = -521.9296962887421
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.9296962887421 + |w|=263.73131831143405) = 785.6610146001761
+Value (labelProb=521.2564570655281 prior=0.0) loglikelihood = -521.2564570655281
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.2564570655281 + |w|=263.7422835429803) = 784.9987406085085
+Value (labelProb=520.9131058780903 prior=0.0) loglikelihood = -520.9131058780903
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.9131058780903 + |w|=263.1683383249751) = 784.0814442030653
+Value (labelProb=521.5504271244188 prior=0.0) loglikelihood = -521.5504271244188
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.5504271244188 + |w|=261.9014610939196) = 783.4518882183384
+Value (labelProb=521.8357649388889 prior=0.0) loglikelihood = -521.8357649388889
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.8357649388889 + |w|=261.295962974331) = 783.13172791322
+Value (labelProb=522.1751775640503 prior=0.0) loglikelihood = -522.1751775640503
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.1751775640503 + |w|=260.7183460387705) = 782.8935236028208
+Value (labelProb=521.6679363501761 prior=0.0) loglikelihood = -521.6679363501761
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.6679363501761 + |w|=260.99896110914466) = 782.6668974593208
+Value (labelProb=521.5502295586209 prior=0.0) loglikelihood = -521.5502295586209
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.5502295586209 + |w|=261.30455443219404) = 782.8547839908149
+Value (labelProb=521.4580473276075 prior=0.0) loglikelihood = -521.4580473276075
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.4580473276075 + |w|=261.1144298749448) = 782.5724772025522
+Value (labelProb=521.1567166504564 prior=0.0) loglikelihood = -521.1567166504564
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 521.1567166504564 + |w|=261.29896409340375) = 782.4556807438601
+Value (labelProb=520.8717395098314 prior=0.0) loglikelihood = -520.8717395098314
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.8717395098314 + |w|=261.51267526547605) = 782.3844147753075
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 782.4556807438601 newValue: 782.3844147753075
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.8717395098314 + |w|=261.51267526547605) = 782.3844147753075
+Value (labelProb=879.9029854480156 prior=0.0) loglikelihood = -879.9029854480156
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 879.9029854480156 + |w|=259.9648740991225) = 1139.867859547138
+Value (labelProb=524.00852682813 prior=0.0) loglikelihood = -524.00852682813
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.00852682813 + |w|=261.30871645169157) = 785.3172432798216
+Value (labelProb=520.8918574389785 prior=0.0) loglikelihood = -520.8918574389785
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.8918574389785 + |w|=261.4913897228974) = 782.3832471618759
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 782.3844147753075 newValue: 782.3832471618759
+
+
+The training accuracy is 0.9544554455445544
+The testing accuracy is 0.9086859688195991
+The testing precision is 0.803921568627451
+The testing recall is 0.917910447761194
+The testing f1score is 0.8571428571428571
+Outclassification size 449
+Count Correct 408
+Count Incorrect 41
+p1l1 123
+p1l0 30
+p0l1 11
+p0l0 285
+#############Performing 4 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=566.0739396371712 prior=0.0) loglikelihood = -566.0739396371712
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 566.0739396371712 + |w|=261.4913897228974) = 827.5653293600685
+Value (labelProb=799.511897141326 prior=0.0) loglikelihood = -799.511897141326
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 799.511897141326 + |w|=260.1063514063573) = 1059.6182485476834
+Value (labelProb=564.9435284503788 prior=0.0) loglikelihood = -564.9435284503788
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 564.9435284503788 + |w|=261.2956274897181) = 826.2391559400969
+Value (labelProb=563.7441951546534 prior=0.0) loglikelihood = -563.7441951546534
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 563.7441951546534 + |w|=261.29263813597765) = 825.0368332906311
+Value (labelProb=559.0937983348624 prior=0.0) loglikelihood = -559.0937983348624
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 559.0937983348624 + |w|=261.1981738449435) = 820.291972179806
+Value (labelProb=553.379318701294 prior=0.0) loglikelihood = -553.379318701294
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 553.379318701294 + |w|=260.8007893982875) = 814.1801080995815
+Value (labelProb=545.5807061813845 prior=0.0) loglikelihood = -545.5807061813845
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 545.5807061813845 + |w|=259.75791825542746) = 805.3386244368119
+Value (labelProb=542.4816707124578 prior=0.0) loglikelihood = -542.4816707124578
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 542.4816707124578 + |w|=259.60947382698066) = 802.0911445394385
+Value (labelProb=539.4305551424759 prior=0.0) loglikelihood = -539.4305551424759
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 539.4305551424759 + |w|=259.3506662168152) = 798.7812213592911
+Value (labelProb=537.5234186462545 prior=0.0) loglikelihood = -537.5234186462545
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 537.5234186462545 + |w|=258.6039868438046) = 796.1274054900591
+Value (labelProb=538.427768438384 prior=0.0) loglikelihood = -538.427768438384
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 538.427768438384 + |w|=258.3183221672363) = 796.7460906056203
+Value (labelProb=537.0430787710851 prior=0.0) loglikelihood = -537.0430787710851
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 537.0430787710851 + |w|=258.428690910356) = 795.4717696814412
+Value (labelProb=536.2409066845199 prior=0.0) loglikelihood = -536.2409066845199
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 536.2409066845199 + |w|=258.61490704344953) = 794.8558137279695
+Value (labelProb=534.7359808614368 prior=0.0) loglikelihood = -534.7359808614368
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 534.7359808614368 + |w|=258.870109460829) = 793.6060903222658
+Value (labelProb=533.8214010632349 prior=0.0) loglikelihood = -533.8214010632349
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 533.8214010632349 + |w|=258.5373820582341) = 792.3587831214691
+Value (labelProb=532.2379482409976 prior=0.0) loglikelihood = -532.2379482409976
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 532.2379482409976 + |w|=258.36008010629143) = 790.5980283472891
+Value (labelProb=531.690072915655 prior=0.0) loglikelihood = -531.690072915655
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.690072915655 + |w|=257.8572886529481) = 789.5473615686032
+Value (labelProb=531.4805009829421 prior=0.0) loglikelihood = -531.4805009829421
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.4805009829421 + |w|=257.3717972218007) = 788.8522982047427
+Value (labelProb=531.6254193854321 prior=0.0) loglikelihood = -531.6254193854321
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.6254193854321 + |w|=257.00819547967836) = 788.6336148651105
+Value (labelProb=532.3389486717766 prior=0.0) loglikelihood = -532.3389486717766
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 532.3389486717766 + |w|=256.1892267375307) = 788.5281754093073
+Value (labelProb=531.8372172014754 prior=0.0) loglikelihood = -531.8372172014754
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.8372172014754 + |w|=256.2905807472163) = 788.1277979486918
+Value (labelProb=531.7997302456613 prior=0.0) loglikelihood = -531.7997302456613
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.7997302456613 + |w|=256.2717088916053) = 788.0714391372666
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 788.1277979486918 newValue: 788.0714391372666
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.7997302456613 + |w|=256.2717088916053) = 788.0714391372666
+Value (labelProb=696.002145296914 prior=0.0) loglikelihood = -696.002145296914
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 696.002145296914 + |w|=256.8523482070542) = 952.8544935039682
+Value (labelProb=532.9749106139161 prior=0.0) loglikelihood = -532.9749106139161
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 532.9749106139161 + |w|=256.29916126352026) = 789.2740718774364
+Value (labelProb=531.7826101018168 prior=0.0) loglikelihood = -531.7826101018168
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.7826101018168 + |w|=256.27203957711845) = 788.0546496789352
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 788.0714391372666 newValue: 788.0546496789352
+
+
+The training accuracy is 0.9534653465346534
+The testing accuracy is 0.933184855233853
+The testing precision is 0.8881118881118881
+The testing recall is 0.900709219858156
+The testing f1score is 0.8943661971830986
+Outclassification size 449
+Count Correct 419
+Count Incorrect 30
+p1l1 127
+p1l0 16
+p0l1 14
+p0l0 292
+#############Performing 5 iteration###########
+The train set size is 4041
+The test set size is 448
+Value (labelProb=565.9344419350657 prior=0.0) loglikelihood = -565.9344419350657
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 565.9344419350657 + |w|=256.27203957711845) = 822.2064815121842
+Value (labelProb=583.1216377270298 prior=0.0) loglikelihood = -583.1216377270298
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 583.1216377270298 + |w|=257.28535244795853) = 840.4069901749883
+Value (labelProb=563.9942445639037 prior=0.0) loglikelihood = -563.9942445639037
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 563.9942445639037 + |w|=256.30254648711224) = 820.296791051016
+Value (labelProb=558.8514383777592 prior=0.0) loglikelihood = -558.8514383777592
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 558.8514383777592 + |w|=256.1253256009211) = 814.9767639786803
+Value (labelProb=550.5170255734412 prior=0.0) loglikelihood = -550.5170255734412
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 550.5170255734412 + |w|=255.8679008123066) = 806.3849263857478
+Value (labelProb=545.8227670427261 prior=0.0) loglikelihood = -545.8227670427261
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 545.8227670427261 + |w|=256.8451766197326) = 802.6679436624588
+Value (labelProb=543.495482319633 prior=0.0) loglikelihood = -543.495482319633
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 543.495482319633 + |w|=256.38384451260293) = 799.8793268322358
+Value (labelProb=539.4564704114731 prior=0.0) loglikelihood = -539.4564704114731
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 539.4564704114731 + |w|=256.76088813256143) = 796.2173585440346
+Value (labelProb=535.818122431969 prior=0.0) loglikelihood = -535.818122431969
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 535.818122431969 + |w|=257.2279889262317) = 793.0461113582007
+Value (labelProb=534.1479530932666 prior=0.0) loglikelihood = -534.1479530932666
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 534.1479530932666 + |w|=256.868038778112) = 791.0159918713786
+Value (labelProb=532.0896826324039 prior=0.0) loglikelihood = -532.0896826324039
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 532.0896826324039 + |w|=257.65238659838695) = 789.7420692307908
+Value (labelProb=531.3365452978749 prior=0.0) loglikelihood = -531.3365452978749
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.3365452978749 + |w|=257.6861391510285) = 789.0226844489034
+Value (labelProb=530.3092223933015 prior=0.0) loglikelihood = -530.3092223933015
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 530.3092223933015 + |w|=258.14175510888083) = 788.4509775021824
+Value (labelProb=529.1265889002174 prior=0.0) loglikelihood = -529.1265889002174
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 529.1265889002174 + |w|=258.6064071276869) = 787.7329960279043
+Value (labelProb=527.8531722187789 prior=0.0) loglikelihood = -527.8531722187789
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.8531722187789 + |w|=259.5369923299801) = 787.390164548759
+Value (labelProb=527.196575325755 prior=0.0) loglikelihood = -527.196575325755
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.196575325755 + |w|=259.98479586596284) = 787.1813711917179
+Value (labelProb=526.611907543206 prior=0.0) loglikelihood = -526.611907543206
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 526.611907543206 + |w|=260.336455096168) = 786.948362639374
+Value (labelProb=525.7734696211797 prior=0.0) loglikelihood = -525.7734696211797
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 525.7734696211797 + |w|=260.96206748239086) = 786.7355371035706
+Value (labelProb=524.9896243613564 prior=0.0) loglikelihood = -524.9896243613564
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.9896243613564 + |w|=261.5671221231018) = 786.5567464844582
+Value (labelProb=524.6184281149295 prior=0.0) loglikelihood = -524.6184281149295
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.6184281149295 + |w|=261.80237124481357) = 786.4207993597431
+Value (labelProb=524.647282249509 prior=0.0) loglikelihood = -524.647282249509
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.647282249509 + |w|=261.65596539297695) = 786.303247642486
+Value (labelProb=524.7092281239602 prior=0.0) loglikelihood = -524.7092281239602
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.7092281239602 + |w|=261.57904364073767) = 786.2882717646978
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 786.303247642486 newValue: 786.2882717646978
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.7092281239602 + |w|=261.57904364073767) = 786.2882717646978
+Value (labelProb=794.3069904408485 prior=0.0) loglikelihood = -794.3069904408485
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 794.3069904408485 + |w|=262.23498884116094) = 1056.5419792820094
+Value (labelProb=527.2143083444935 prior=0.0) loglikelihood = -527.2143083444935
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.2143083444935 + |w|=261.6145088925703) = 788.8288172370637
+Value (labelProb=524.6376852596534 prior=0.0) loglikelihood = -524.6376852596534
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.6376852596534 + |w|=261.5824011857771) = 786.2200864454305
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 786.2882717646978 newValue: 786.2200864454305
+
+
+The training accuracy is 0.9527344716654293
+The testing accuracy is 0.9308035714285714
+The testing precision is 0.8881987577639752
+The testing recall is 0.9166666666666666
+The testing f1score is 0.9022082018927445
+Outclassification size 448
+Count Correct 417
+Count Incorrect 31
+p1l1 143
+p1l0 18
+p0l1 13
+p0l0 274
+#############Performing 6 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=562.9356597159247 prior=0.0) loglikelihood = -562.9356597159247
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 562.9356597159247 + |w|=261.5824011857771) = 824.5180609017018
+Value (labelProb=608.1813687143763 prior=0.0) loglikelihood = -608.1813687143763
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 608.1813687143763 + |w|=260.06058881190967) = 868.2419575262859
+Value (labelProb=560.9513346990955 prior=0.0) loglikelihood = -560.9513346990955
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 560.9513346990955 + |w|=261.36147607456667) = 822.3128107736621
+Value (labelProb=556.8496972575289 prior=0.0) loglikelihood = -556.8496972575289
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 556.8496972575289 + |w|=260.6310990044462) = 817.480796261975
+Value (labelProb=551.6011660598214 prior=0.0) loglikelihood = -551.6011660598214
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 551.6011660598214 + |w|=259.22818072323724) = 810.8293467830586
+Value (labelProb=548.4809583995152 prior=0.0) loglikelihood = -548.4809583995152
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 548.4809583995152 + |w|=259.20889928098495) = 807.6898576805002
+Value (labelProb=544.1212325373647 prior=0.0) loglikelihood = -544.1212325373647
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 544.1212325373647 + |w|=258.72927424425814) = 802.8505067816228
+Value (labelProb=539.9127473188748 prior=0.0) loglikelihood = -539.9127473188748
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 539.9127473188748 + |w|=257.5240435096442) = 797.436790828519
+Value (labelProb=538.3118567564997 prior=0.0) loglikelihood = -538.3118567564997
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 538.3118567564997 + |w|=256.6305611532199) = 794.9424179097196
+Value (labelProb=536.2560876049542 prior=0.0) loglikelihood = -536.2560876049542
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 536.2560876049542 + |w|=256.6609684414247) = 792.917056046379
+Value (labelProb=532.2610512215557 prior=0.0) loglikelihood = -532.2610512215557
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 532.2610512215557 + |w|=257.88097168291836) = 790.1420229044741
+Value (labelProb=531.4254194317648 prior=0.0) loglikelihood = -531.4254194317648
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 531.4254194317648 + |w|=257.279482542997) = 788.7049019747618
+Value (labelProb=529.9539330638781 prior=0.0) loglikelihood = -529.9539330638781
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 529.9539330638781 + |w|=257.234548457554) = 787.1884815214321
+Value (labelProb=527.775333917756 prior=0.0) loglikelihood = -527.775333917756
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.775333917756 + |w|=258.0137189493826) = 785.7890528671387
+Value (labelProb=527.780606595905 prior=0.0) loglikelihood = -527.780606595905
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.780606595905 + |w|=257.43995912555215) = 785.2205657214572
+Value (labelProb=527.5537098065122 prior=0.0) loglikelihood = -527.5537098065122
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.5537098065122 + |w|=257.2799251411782) = 784.8336349476904
+Value (labelProb=527.1583229211545 prior=0.0) loglikelihood = -527.1583229211545
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.1583229211545 + |w|=257.3559820039431) = 784.5143049250976
+Value (labelProb=527.0238333386371 prior=0.0) loglikelihood = -527.0238333386371
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.0238333386371 + |w|=257.4638127556236) = 784.4876460942608
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 784.5143049250976 newValue: 784.4876460942608
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.0238333386371 + |w|=257.4638127556236) = 784.4876460942608
+Value (labelProb=852.808576897756 prior=0.0) loglikelihood = -852.808576897756
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 852.808576897756 + |w|=259.7895150683089) = 1112.5980919660649
+Value (labelProb=529.0849586772466 prior=0.0) loglikelihood = -529.0849586772466
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 529.0849586772466 + |w|=257.6908466147808) = 786.7758052920274
+Value (labelProb=526.8634785946562 prior=0.0) loglikelihood = -526.8634785946562
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 526.8634785946562 + |w|=257.4865005296829) = 784.3499791243391
+Value (labelProb=526.7712138745117 prior=0.0) loglikelihood = -526.7712138745117
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 526.7712138745117 + |w|=257.51168196343315) = 784.2828958379448
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 784.3499791243391 newValue: 784.2828958379448
+
+
+The training accuracy is 0.9556930693069307
+The testing accuracy is 0.9265033407572383
+The testing precision is 0.8795180722891566
+The testing recall is 0.9182389937106918
+The testing f1score is 0.8984615384615384
+Outclassification size 449
+Count Correct 416
+Count Incorrect 33
+p1l1 146
+p1l0 20
+p0l1 13
+p0l0 270
+#############Performing 7 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=552.1287640138171 prior=0.0) loglikelihood = -552.1287640138171
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 552.1287640138171 + |w|=257.51168196343315) = 809.6404459772502
+Value (labelProb=590.0707938301291 prior=0.0) loglikelihood = -590.0707938301291
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 590.0707938301291 + |w|=257.2343210155963) = 847.3051148457255
+Value (labelProb=550.3337779133528 prior=0.0) loglikelihood = -550.3337779133528
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 550.3337779133528 + |w|=257.39503161900967) = 807.7288095323624
+Value (labelProb=545.6101944938962 prior=0.0) loglikelihood = -545.6101944938962
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 545.6101944938962 + |w|=257.04432315817866) = 802.6545176520749
+Value (labelProb=533.935009184639 prior=0.0) loglikelihood = -533.935009184639
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 533.935009184639 + |w|=256.5393995153404) = 790.4744086999793
+Value (labelProb=530.6943270838233 prior=0.0) loglikelihood = -530.6943270838233
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 530.6943270838233 + |w|=255.94183971478452) = 786.6361667986077
+Value (labelProb=528.4623966407765 prior=0.0) loglikelihood = -528.4623966407765
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 528.4623966407765 + |w|=255.29194630351543) = 783.7543429442919
+Value (labelProb=526.4519161735174 prior=0.0) loglikelihood = -526.4519161735174
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 526.4519161735174 + |w|=254.4478119993907) = 780.899728172908
+Value (labelProb=523.923898958821 prior=0.0) loglikelihood = -523.923898958821
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 523.923898958821 + |w|=254.3386407057303) = 778.2625396645514
+Value (labelProb=522.3647060064261 prior=0.0) loglikelihood = -522.3647060064261
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.3647060064261 + |w|=253.37388701038327) = 775.7385930168093
+Value (labelProb=518.8221557610498 prior=0.0) loglikelihood = -518.8221557610498
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.8221557610498 + |w|=253.5446597099463) = 772.366815470996
+Value (labelProb=518.1402069048097 prior=0.0) loglikelihood = -518.1402069048097
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.1402069048097 + |w|=253.20815211657305) = 771.3483590213827
+Value (labelProb=517.8401740767418 prior=0.0) loglikelihood = -517.8401740767418
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.8401740767418 + |w|=252.77461290993978) = 770.6147869866816
+Value (labelProb=517.5877350441443 prior=0.0) loglikelihood = -517.5877350441443
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.5877350441443 + |w|=252.58717393594665) = 770.174908980091
+Value (labelProb=517.6086357601913 prior=0.0) loglikelihood = -517.6086357601913
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.6086357601913 + |w|=252.31053366920116) = 769.9191694293925
+Value (labelProb=517.4453237260948 prior=0.0) loglikelihood = -517.4453237260948
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.4453237260948 + |w|=251.8149123550503) = 769.2602360811451
+Value (labelProb=516.9956754596458 prior=0.0) loglikelihood = -516.9956754596458
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 516.9956754596458 + |w|=251.53509251038471) = 768.5307679700305
+Value (labelProb=517.4336745305617 prior=0.0) loglikelihood = -517.4336745305617
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.4336745305617 + |w|=250.8489228430497) = 768.2825973736115
+Value (labelProb=517.2853529339326 prior=0.0) loglikelihood = -517.2853529339326
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.2853529339326 + |w|=250.8614244579441) = 768.1467773918766
+Value (labelProb=517.2408205655393 prior=0.0) loglikelihood = -517.2408205655393
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.2408205655393 + |w|=250.8404301384762) = 768.0812507040155
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 768.1467773918766 newValue: 768.0812507040155
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.2408205655393 + |w|=250.8404301384762) = 768.0812507040155
+Value (labelProb=669.7048323517847 prior=0.0) loglikelihood = -669.7048323517847
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 669.7048323517847 + |w|=251.0254362253255) = 920.7302685771102
+Value (labelProb=518.3575470781951 prior=0.0) loglikelihood = -518.3575470781951
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.3575470781951 + |w|=250.79451440560555) = 769.1520614838007
+Value (labelProb=517.2234411936001 prior=0.0) loglikelihood = -517.2234411936001
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 517.2234411936001 + |w|=250.83505643352873) = 768.0584976271289
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 768.0812507040155 newValue: 768.0584976271289
+
+
+The training accuracy is 0.9561881188118811
+The testing accuracy is 0.8997772828507795
+The testing precision is 0.823170731707317
+The testing recall is 0.8940397350993378
+The testing f1score is 0.8571428571428571
+Outclassification size 449
+Count Correct 404
+Count Incorrect 45
+p1l1 135
+p1l0 29
+p0l1 16
+p0l0 269
+#############Performing 8 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=566.6120952085149 prior=0.0) loglikelihood = -566.6120952085149
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 566.6120952085149 + |w|=250.83505643352873) = 817.4471516420437
+Value (labelProb=561.3833342883785 prior=0.0) loglikelihood = -561.3833342883785
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 561.3833342883785 + |w|=252.460876284992) = 813.8442105733704
+Value (labelProb=551.8018706816342 prior=0.0) loglikelihood = -551.8018706816342
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 551.8018706816342 + |w|=252.1168048181302) = 803.9186754997644
+Value (labelProb=550.934380453523 prior=0.0) loglikelihood = -550.934380453523
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 550.934380453523 + |w|=252.09256035862248) = 803.0269408121454
+Value (labelProb=540.4923816027652 prior=0.0) loglikelihood = -540.4923816027652
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 540.4923816027652 + |w|=253.55133458383605) = 794.0437161866013
+Value (labelProb=536.2852504872916 prior=0.0) loglikelihood = -536.2852504872916
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 536.2852504872916 + |w|=253.37718259992366) = 789.6624330872153
+Value (labelProb=533.2919581123987 prior=0.0) loglikelihood = -533.2919581123987
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 533.2919581123987 + |w|=253.41912789837158) = 786.7110860107703
+Value (labelProb=527.6832913650832 prior=0.0) loglikelihood = -527.6832913650832
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 527.6832913650832 + |w|=255.02131898498791) = 782.7046103500711
+Value (labelProb=524.9837989864046 prior=0.0) loglikelihood = -524.9837989864046
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 524.9837989864046 + |w|=255.35074810112127) = 780.3345470875258
+Value (labelProb=523.0723757580539 prior=0.0) loglikelihood = -523.0723757580539
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 523.0723757580539 + |w|=255.57427153077774) = 778.6466472888317
+Value (labelProb=522.0263761187922 prior=0.0) loglikelihood = -522.0263761187922
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 522.0263761187922 + |w|=254.71087661302076) = 776.737252731813
+Value (labelProb=520.0740097546968 prior=0.0) loglikelihood = -520.0740097546968
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.0740097546968 + |w|=254.82586271977618) = 774.899872474473
+Value (labelProb=519.9648202428131 prior=0.0) loglikelihood = -519.9648202428131
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 519.9648202428131 + |w|=253.62777580716326) = 773.5925960499764
+Value (labelProb=520.0280163297455 prior=0.0) loglikelihood = -520.0280163297455
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.0280163297455 + |w|=252.1743245539483) = 772.2023408836938
+Value (labelProb=520.2930410399464 prior=0.0) loglikelihood = -520.2930410399464
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.2930410399464 + |w|=251.3485539430043) = 771.6415949829507
+Value (labelProb=520.0663788558539 prior=0.0) loglikelihood = -520.0663788558539
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.0663788558539 + |w|=251.06154919858497) = 771.1279280544389
+Value (labelProb=519.9395531058989 prior=0.0) loglikelihood = -519.9395531058989
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 519.9395531058989 + |w|=250.92063184928094) = 770.8601849551799
+Value (labelProb=520.54177456333 prior=0.0) loglikelihood = -520.54177456333
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.54177456333 + |w|=250.48900961833272) = 771.0307841816627
+Value (labelProb=520.1241862032617 prior=0.0) loglikelihood = -520.1241862032617
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.1241862032617 + |w|=250.69206940352208) = 770.8162556067838
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 770.8601849551799 newValue: 770.8162556067838
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.1241862032617 + |w|=250.69206940352208) = 770.8162556067838
+Value (labelProb=933.7939402746365 prior=0.0) loglikelihood = -933.7939402746365
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 933.7939402746365 + |w|=249.25286089858605) = 1183.0468011732225
+Value (labelProb=523.2612896694661 prior=0.0) loglikelihood = -523.2612896694661
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 523.2612896694661 + |w|=250.49725789829847) = 773.7585475677646
+Value (labelProb=520.0894599530252 prior=0.0) loglikelihood = -520.0894599530252
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.0894599530252 + |w|=250.67158820023215) = 770.7610481532573
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 770.8162556067838 newValue: 770.7610481532573
+
+
+The training accuracy is 0.9534653465346534
+The testing accuracy is 0.8864142538975501
+The testing precision is 0.8
+The testing recall is 0.8974358974358975
+The testing f1score is 0.8459214501510575
+Outclassification size 449
+Count Correct 398
+Count Incorrect 51
+p1l1 140
+p1l0 35
+p0l1 16
+p0l0 258
+#############Performing 9 iteration###########
+The train set size is 4040
+The test set size is 449
+Value (labelProb=565.6156773294218 prior=0.0) loglikelihood = -565.6156773294218
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 565.6156773294218 + |w|=250.67158820023215) = 816.287265529654
+Value (labelProb=564.6102763603044 prior=0.0) loglikelihood = -564.6102763603044
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 564.6102763603044 + |w|=250.09679949297947) = 814.7070758532839
+Value (labelProb=552.3528390931828 prior=0.0) loglikelihood = -552.3528390931828
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 552.3528390931828 + |w|=249.98882278127098) = 802.3416618744537
+Value (labelProb=551.2296515009072 prior=0.0) loglikelihood = -551.2296515009072
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 551.2296515009072 + |w|=249.98914486499308) = 801.2187963659003
+Value (labelProb=542.4877360594131 prior=0.0) loglikelihood = -542.4877360594131
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 542.4877360594131 + |w|=250.86796338241604) = 793.3556994418292
+Value (labelProb=538.2205109879139 prior=0.0) loglikelihood = -538.2205109879139
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 538.2205109879139 + |w|=251.26697713993352) = 789.4874881278474
+Value (labelProb=534.2155163088125 prior=0.0) loglikelihood = -534.2155163088125
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 534.2155163088125 + |w|=251.3518233494585) = 785.5673396582711
+Value (labelProb=530.7881264355245 prior=0.0) loglikelihood = -530.7881264355245
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 530.7881264355245 + |w|=250.84210853941246) = 781.630234974937
+Value (labelProb=526.8621896391168 prior=0.0) loglikelihood = -526.8621896391168
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 526.8621896391168 + |w|=251.39173873583937) = 778.2539283749561
+Value (labelProb=523.0823845688478 prior=0.0) loglikelihood = -523.0823845688478
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 523.0823845688478 + |w|=251.02015602325162) = 774.1025405920994
+Value (labelProb=520.4271056127637 prior=0.0) loglikelihood = -520.4271056127637
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.4271056127637 + |w|=250.8785500999557) = 771.3056557127195
+Value (labelProb=519.8063747246337 prior=0.0) loglikelihood = -519.8063747246337
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 519.8063747246337 + |w|=250.16595728520394) = 769.9723320098376
+Value (labelProb=519.6998975712138 prior=0.0) loglikelihood = -519.6998975712138
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 519.6998975712138 + |w|=249.3823936442189) = 769.0822912154326
+Value (labelProb=520.3659281787485 prior=0.0) loglikelihood = -520.3659281787485
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 520.3659281787485 + |w|=247.4405354613143) = 767.8064636400628
+Value (labelProb=519.613183449954 prior=0.0) loglikelihood = -519.613183449954
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 519.613183449954 + |w|=247.5456412792656) = 767.1588247292196
+Value (labelProb=519.4565502889559 prior=0.0) loglikelihood = -519.4565502889559
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 519.4565502889559 + |w|=247.4366504514849) = 766.8932007404408
+Value (labelProb=519.1192328943619 prior=0.0) loglikelihood = -519.1192328943619
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 519.1192328943619 + |w|=247.42007888182707) = 766.5393117761889
+Value (labelProb=518.592458973483 prior=0.0) loglikelihood = -518.592458973483
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.592458973483 + |w|=247.68919049487124) = 766.2816494683542
+Value (labelProb=518.8132925000433 prior=0.0) loglikelihood = -518.8132925000433
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.8132925000433 + |w|=247.30870317164434) = 766.1219956716876
+Value (labelProb=518.7968184224322 prior=0.0) loglikelihood = -518.7968184224322
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.7968184224322 + |w|=247.29585003064292) = 766.0926684530751
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 766.1219956716876 newValue: 766.0926684530751
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.7968184224322 + |w|=247.29585003064292) = 766.0926684530751
+Value (labelProb=550.0093098988157 prior=0.0) loglikelihood = -550.0093098988157
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 550.0093098988157 + |w|=249.13079155442645) = 799.1401014532421
+Value (labelProb=518.8692574235447 prior=0.0) loglikelihood = -518.8692574235447
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.8692574235447 + |w|=247.38852367380508) = 766.2577810973498
+Value (labelProb=518.77028635403 prior=0.0) loglikelihood = -518.77028635403
+getValue() (MaxEntOptimizableByLabelLikelihood.getValue() = 518.77028635403 + |w|=247.30119078806433) = 766.0714771420943
+Exiting OWL-BFGS on termination #1:
+value difference below tolerance (oldValue: 766.0926684530751 newValue: 766.0714771420943
+
+
+The training accuracy is 0.9554455445544554
+The testing accuracy is 0.8730512249443207
+The testing precision is 0.7534246575342466
+The testing recall is 0.8396946564885496
+The testing f1score is 0.7942238267148014
+Outclassification size 449
+Count Correct 392
+Count Incorrect 57
+p1l1 110
+p1l0 36
+p0l1 21
+p0l0 282
+Average 10 folds accuracy for model MaxEntTrainer,gaussianPriorVariance=1.7976931348623157E308 is : 0.9100068604836145
+Average 10 folds precision for model MaxEntTrainer,gaussianPriorVariance=1.7976931348623157E308 is : 0.8354500772969621
+Average 10 folds recall for model MaxEntTrainer,gaussianPriorVariance=1.7976931348623157E308 is : 0.8963846074757411
+Average 10 folds f1-score for model MaxEntTrainer,gaussianPriorVariance=1.7976931348623157E308 is : 0.8643919306250594
